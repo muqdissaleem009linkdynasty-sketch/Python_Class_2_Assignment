@@ -61,10 +61,6 @@ Python_Class_2_Assignment/
 └── Screenshort/
 ```
 
-##  Screenshots
-
-Screenshots of the completed programs are available in the **Screenshort** folder.
-
 ##  Learning Outcome
 
 Through this assignment, I strengthened my understanding of Python fundamentals and practiced writing simple programs using conditions, calculations, and user input.
