@@ -3,7 +3,7 @@
 # About This Assignment
 
 This repository contains my **Python Class 2 Assignment**.
-The assignment helped me practice basic Python programming concepts and improve my problem-solving skills.
+The assignment helped me practice basic Python programming concepts and improve my problem solving skills.
 
 ##  Programs Included
 
